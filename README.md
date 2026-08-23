@@ -10,6 +10,8 @@ The current implementation consists of a **platform-independent C++17 core** wit
 
 > **Status:** Experimental / Work in Progress
 
+<img width="1012" height="664" alt="Screenshot 2026-08-23 at 15 11 07" src="https://github.com/user-attachments/assets/9d33ae2f-a1d6-49f1-9b58-3ad89ad7c4ad" />
+
 ---
 
 ## Why OffDrop?
